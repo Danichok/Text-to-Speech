@@ -13,7 +13,7 @@ function Main() {
 
     return (
         <div>
-            <div className='max-w-[400px] w-full m-auto '>
+            <div className='max-w-[400px] w-full m-auto px-2'>
                 <div className="relative pt-10 rounded-md shadow-sm w-full">
                     <label htmlFor="Сonvert" className="block text-sm font-medium leading-6 text-gray-900">
                         Сonvert text to voice
